@@ -2,5 +2,5 @@ name: Massil Achab
 markdown: redcarpet
 pygments: true
 description: "awesome description"
-url: "massach.github.io"
+url: "achab.github.io"
 permalink: /posts/:title
