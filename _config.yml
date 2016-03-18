@@ -1,4 +1,5 @@
 name: Massil Achab blog
+markdown: kramdown
 pygments: true
 description: "awesome description"
 url: "achab.github.io"
